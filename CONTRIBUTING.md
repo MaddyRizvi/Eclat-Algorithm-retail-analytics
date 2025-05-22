@@ -11,8 +11,8 @@ Here are a few guidelines to help you get started.
 1. **Fork the repository**.
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/yourusername/your-fork-name.git
-   cd your-fork-name
+   git clone https://github.com/MaddyRizvi/Eclat-Algorithm-retail-analytics.git
+   cd Eclat-Algorithm-retail-analytics
    ```
 3. **Create a new branch** for your feature or bugfix:
    ```bash
