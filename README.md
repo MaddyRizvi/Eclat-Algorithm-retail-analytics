@@ -46,6 +46,10 @@ python eclat_analysis.py
 
 ---
 
+## 📊 Result
+
+![Image](https://github.com/user-attachments/assets/49cb5688-2361-41ea-834a-bd70eb467bc1)
+
 ## 📜 License
 
 This project is licensed under the MIT License.
